@@ -12,4 +12,8 @@ class User
   def name
     @first_name + ' ' + @last_name
   end
+  
+    def name_test
+    @first_name + ' ' + @last_name
+  end
 end
